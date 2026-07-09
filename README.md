@@ -90,6 +90,16 @@ const kiran = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kirangautham-82899&theme=github-compact&bg_color=0d1117&color=58a6ff&line=a78bfa&point=5ef0b5&area=true&hide_border=true" width="100%" />
 </div>
 
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kirangautham-82899/kirangautham-82899/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kirangautham-82899/kirangautham-82899/output/github-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/kirangautham-82899/kirangautham-82899/output/github-snake-dark.svg" width="100%" />
+  </picture>
+</div>
+
 ---
 
 <div align="center">
